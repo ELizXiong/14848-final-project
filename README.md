@@ -79,9 +79,9 @@ Method 2: run using command$ python User_Interface_GUI.py in terminal with requi
 
 ## Outputs 
 
-### 1. Apache Hadoop
+### 1. Apache Hadoop (1 Namenode + 2 Datanodes)
 
-#### NameNode
+#### NameNode 
 <img width="1236" alt="Screen Shot 2021-11-28 at 5 48 11 PM" src="https://user-images.githubusercontent.com/60122319/143799723-7be9f7d2-b541-4341-bcfd-51c9bfbede57.png">
 
 #### DataNode
