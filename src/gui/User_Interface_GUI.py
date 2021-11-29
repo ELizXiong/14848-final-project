@@ -83,8 +83,7 @@ def submit():
 submit_button = Button(gui, text = "Submit", fg='mediumturquoise', font=("Book Antiqua", 16),height=2, width=6,command=lambda: submit())
 submit_button.pack()
 submit_button.place(x=510, y=460)
-#for bl in button_list:
-#    optionlist.insert(END, bl)
+
 gui.title('Data Science Toolbox v.1.5.1')
 gui.geometry("500x500+11+11")
 gui.configure(bg='lavender')
