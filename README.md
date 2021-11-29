@@ -2,6 +2,8 @@
 
 ## Walkthrough demo video
 
+https://youtu.be/KbH55ZXtnA0 
+
 ## GUI for user to choose which application to run
 <img width="1068" alt="Screen Shot 2021-11-28 at 8 39 20 PM" src="https://user-images.githubusercontent.com/60122319/143796000-25930b29-8594-4b17-90e8-a32361abb5b3.png">
 
