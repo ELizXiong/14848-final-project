@@ -1,11 +1,11 @@
 # 14848-final-project
 
+## Walkthrough demo video
+
 ## GUI for user to choose which application to run
 <img width="1068" alt="Screen Shot 2021-11-28 at 8 39 20 PM" src="https://user-images.githubusercontent.com/60122319/143796000-25930b29-8594-4b17-90e8-a32361abb5b3.png">
 
-### Usage: users can choose the desired application by using either drop-down option list or typing in the corresponding number (1,2,3,4) in the input box. Press the confirm (for the drop-down list) or submit button (for the input box) to access to the desired application interface.
-
-### Please see details in the walkthrough demo video
+### Usage Instructions: users can choose the desired application by using either drop-down option list or typing in the corresponding number (1,2,3,4) in the input box. Press the confirm (for the drop-down list) or submit button (for the input box) to access to the desired application interface.
 
 ## Docker Images
 
