@@ -1,5 +1,7 @@
 FROM python:latest
-COPY . /usr/src/gui
 WORKDIR /usr/src/gui
+COPY . /usr/src/gui
 RUN pip install tk
-CMD [ "python", "User_Interface_GUI.py"]
+ENV DISPLAY :0
+CMD ["User_Interface_GUI.py"]
+ENTRYPOINT ["python"]
