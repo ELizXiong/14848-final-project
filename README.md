@@ -39,13 +39,13 @@ https://hub.docker.com/layers/179555090/elizxiong/toolbox-interface/v2/images/sh
 
 <img width="554" alt="Screen Shot 2021-11-28 at 9 04 32 PM" src="https://user-images.githubusercontent.com/60122319/143797774-f1cd4dc1-5cbf-47d3-baa1-53097f20199c.png">
 
-Codes used [use sonarqube as an example]:
+Codes used [use toolbox-interface docker as an example]:
 
-docker pull sonarqube
+docker pull elizxiong/toolbox-interface:v2
 
-docker tag sonarqube gcr.i0/final-project-330803/sonarqube:latest
+docker tag elizxiong/toolbox-interface:v2 gcr.i0/final-project-330803/elizxiong/toolbox-interface:v2
 
-docker push gcr.i0/final-project-330803/sonarqube:latest
+docker push gcr.i0/final-project-330803/elizxiong/toolbox-interface:v2
 
 ## Deploy docker images to Kubernetes Engine
 
